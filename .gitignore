@@ -1,4 +1,5 @@
 # Rust/Cargo Build Artifacts
+target/
 /target/
 debug/
 **/*.rs.bk
