@@ -1,0 +1,32 @@
+# Rust/Cargo Build Artifacts
+/target/
+debug/
+**/*.rs.bk
+*.pdb
+
+# Cargo Lock (uncomment if library, keep if binary)
+# Cargo.lock
+
+# Mutation Testing
+**/mutants.out*/
+
+# IDE/Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Operating System Files
+.DS_Store
+*/.DS_Store
+Thumbs.db
+
+# Environment Variables & Configuration
+.env
+.env.local
+config.toml
+.config/
+
+# Logs
+*.log

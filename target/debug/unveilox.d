@@ -1,0 +1,1 @@
+/Users/seungkilee/Workspace/seungkilee-cs/unveilox-cli/target/debug/unveilox: /Users/seungkilee/Workspace/seungkilee-cs/unveilox-cli/assets/poems/if.txt /Users/seungkilee/Workspace/seungkilee-cs/unveilox-cli/assets/poems/invictus.txt /Users/seungkilee/Workspace/seungkilee-cs/unveilox-cli/src/main.rs
